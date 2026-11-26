@@ -1,0 +1,6 @@
+[2026-11-26 16:53:40] TO: customer@travelplatform.local | KEY: booking_confirmation | SUBJECT: Booking Request Received (BK-2026-01042A) - Aurelia Expeditions | STATUS: logged
+[2026-11-26 16:53:41] TO: customer@travelplatform.local | KEY: booking_status_update | SUBJECT: Booking BK-2026-01042A Status Updated: Confirmed - Aurelia Expeditions | STATUS: logged
+[2026-11-26 16:54:40] TO: customer@travelplatform.local | KEY: booking_confirmation | SUBJECT: Booking Request Received (BK-2026-010477) - Aurelia Expeditions | STATUS: logged
+[2026-11-26 16:54:41] TO: customer@travelplatform.local | KEY: booking_status_update | SUBJECT: Booking BK-2026-010477 Status Updated: Confirmed - Aurelia Expeditions | STATUS: logged
+[2026-11-26 16:57:03] TO: customer@travelplatform.local | KEY: booking_confirmation | SUBJECT: Booking Request Received (BK-2026-0104E4) - Aurelia Expeditions | STATUS: logged
+[2026-11-26 16:57:04] TO: customer@travelplatform.local | KEY: booking_status_update | SUBJECT: Booking BK-2026-0104E4 Status Updated: Confirmed - Aurelia Expeditions | STATUS: logged
